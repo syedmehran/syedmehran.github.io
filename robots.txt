@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://syedmehran.github.io/home/sitemap.xml
+Sitemap: https://syedmehran.github.io/sitemap.xml
